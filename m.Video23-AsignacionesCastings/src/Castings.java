@@ -88,7 +88,6 @@ public class Castings
 
 }
 
-class Casita {}
 class Animal {}
 class Perro extends Animal {}
 class Gato extends Animal {}
